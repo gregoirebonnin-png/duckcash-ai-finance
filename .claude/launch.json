@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "car-luxe-landing",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/gregoirebonnin/Documents/LP Car/server.js"],
+      "port": 8743
+    },
+    {
+      "name": "cueillir-landing",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/gregoirebonnin/Documents/P&L Tool/preview-server.js"],
+      "port": 8892
+    }
+  ]
+}
