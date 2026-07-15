@@ -2,7 +2,7 @@
 
 Application desktop de suivi financier de projets (P&L), construite avec Electron + React + TypeScript.
 
-![DuckCash Logo](src/renderer/public/duckcash-logo.png)
+![DuckCash Logo](src/renderer/public/duckcash-logo.svg)
 
 ## Fonctionnalités
 
